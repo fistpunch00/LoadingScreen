@@ -66,9 +66,7 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Place the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"touhou01.jpg",
-	"touhou02.jpg",
-	"touhou03.jpg"
+	"LoadingScreen.jpg"
 ];
 
 /*(Image-background only)
@@ -117,7 +115,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 (quietest) and 100 (loudest)*/
-var l_musicVolume = 15;
+var l_musicVolume = 30;
 
 /*Enable custom messages?
 'true' or 'false'*/
